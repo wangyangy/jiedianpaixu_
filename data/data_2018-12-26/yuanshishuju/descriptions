@@ -1,0 +1,14 @@
+# Directed graph (each unordered pair of nodes is saved once): soc-Epinions1.txt 
+# Directed Epinions social network
+# Nodes: 75879 Edges: 508837 MaxNode:75887(说明有些节点没有,可能不是一个连通图,会有多个连通分量)
+# FromNodeId	ToNodeId
+
+
+
+# Directed graph (each unordered pair of nodes is saved once): Email-Enron.txt (不是连通图)
+# Enron email network (edge indicated that email was exchanged, undirected edges)
+# Nodes: 36692 Edges: 367662
+# FromNodeId	ToNodeId
+
+
+# 在facebook_combined.txt中一共有4039个节点,是连通图
